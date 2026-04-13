@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alistair Soccer Schedule//Dribl//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alistair Soccer Schedule
+X-WR-TIMEZONE:Australia/Sydney
+X-WR-CALDESC:Gladesville Sharks FC Under 9 02 - Season Schedule
+BEGIN:VEVENT
+UID:emAn53qQMN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260417T223000Z
+DTEND:20260417T233000Z
+SUMMARY:Ryde Saints United FC Under 9 02 B vs Gladesville Sharks FC Under 9
+  02
+LOCATION:Pidding Park\, No 4
+GEO:-33.811562;151.121267
+DESCRIPTION:Round 2\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed -
+  North\\nVenue: Pidding Park\, No 4\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nmYnwb4rpN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260501T233000Z
+DTEND:20260502T003000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs Ryde Saints United FC Under 9 0
+ 2 A
+LOCATION:Morrison Bay\, No 6B
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 3\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed -
+  North\\nVenue: Morrison Bay\, No 6B\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vdWDRxzMGm@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260508T233000Z
+DTEND:20260509T003000Z
+SUMMARY:Gladesville Ravens SC Under 9 02 White vs Gladesville Sharks FC Und
+ er 9 02
+LOCATION:Peel Park\, No 5
+GEO:-33.82975;151.11973
+DESCRIPTION:Round 4\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed -
+  North\\nVenue: Peel Park\, No 5\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:xm8Zen9y1K@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260515T233000Z
+DTEND:20260516T003000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs West Pennant Hills Cherrybrook 
+ FC Under 9 02 B
+LOCATION:Morrison Bay\, No 6B
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 5\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed -
+  North\\nVenue: Morrison Bay\, No 6B\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:BdDbLQ5XJN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260523T013000Z
+DTEND:20260523T023000Z
+SUMMARY:West Pennant Hills Cherrybrook FC Under 9 02 A vs Gladesville Shark
+ s FC Under 9 02
+LOCATION:James Henty Oval\, No 1
+GEO:-33.711552;151.030311
+DESCRIPTION:Round 6\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed -
+  North\\nVenue: James Henty Oval\, No 1\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:WdgqbylllN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260529T233000Z
+DTEND:20260530T003000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs North Ryde SC Under 9 02 A
+LOCATION:Morrison Bay\, No 6A
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 7\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed -
+  North\\nVenue: Morrison Bay\, No 6A\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:EN2pW2VAld@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260612T233000Z
+DTEND:20260613T003000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs Pennant Hills FC Under 9 02
+LOCATION:Morrison Bay\, No 6B
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 9\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed -
+  North\\nVenue: Morrison Bay\, No 6B\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ld45WBAzDm@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260620T003000Z
+DTEND:20260620T013000Z
+SUMMARY:North Ryde SC Under 9 02 B vs Gladesville Sharks FC Under 9 02
+LOCATION:Gannan Park\, Gannan Park 3
+GEO:-33.80685;151.11899
+DESCRIPTION:Round 10\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Gannan Park\, Gannan Park 3\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emAnLybjxN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260626T233000Z
+DTEND:20260627T003000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs West Ryde Rovers FC Under 9 02 
+ A
+LOCATION:Morrison Bay\, No 6A
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 11\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Morrison Bay\, No 6A\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yKJJpMb8rK@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260703T223000Z
+DTEND:20260703T233000Z
+SUMMARY:Redfield Lions FC Under 9 02 vs Gladesville Sharks FC Under 9 02
+LOCATION:Redfield College\, No 4
+GEO:-33.69158;151.032065
+DESCRIPTION:Round 12\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Redfield College\, No 4\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nmYn70ZypN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260717T233000Z
+DTEND:20260718T003000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs Ryde Saints United FC Under 9 0
+ 2 B
+LOCATION:Morrison Bay\, No 6B
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 13\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Morrison Bay\, No 6B\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:Omep237e0d@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260725T003000Z
+DTEND:20260725T013000Z
+SUMMARY:Ryde Saints United FC Under 9 02 A vs Gladesville Sharks FC Under 9
+  02
+LOCATION:Pidding Park\, No 4
+GEO:-33.811562;151.121267
+DESCRIPTION:Round 14\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Pidding Park\, No 4\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:EN2pWoDyVd@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260731T223000Z
+DTEND:20260731T233000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs Gladesville Ravens SC Under 9 0
+ 2 White
+LOCATION:Morrison Bay\, No 6B
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 15\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Morrison Bay\, No 6B\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nmYn748JzN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260808T013000Z
+DTEND:20260808T023000Z
+SUMMARY:West Pennant Hills Cherrybrook FC Under 9 02 B vs Gladesville Shark
+ s FC Under 9 02
+LOCATION:James Henty Oval\, No 1
+GEO:-33.711552;151.030311
+DESCRIPTION:Round 16\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: James Henty Oval\, No 1\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RNEgJqwe6d@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260814T233000Z
+DTEND:20260815T003000Z
+SUMMARY:Gladesville Sharks FC Under 9 02 vs West Pennant Hills Cherrybrook 
+ FC Under 9 02 A
+LOCATION:Morrison Bay\, No 6B
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 17\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Morrison Bay\, No 6B\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:WdgqbO0VXN@alistair-soccer-schedule.dribl.com
+DTSTAMP:20260413T220642Z
+DTSTART:20260821T223000Z
+DTEND:20260821T233000Z
+SUMMARY:North Ryde SC Under 9 02 A vs Gladesville Sharks FC Under 9 02
+LOCATION:Morrison Bay\, No 6A
+GEO:-33.828764;151.113465
+DESCRIPTION:Round 18\\nCompetition: Premiership\\nLeague: Under 9 02 Mixed 
+ - North\\nVenue: Morrison Bay\, No 6A\\nStatus: Pending
+CATEGORIES:Premiership,Under 9 02 Mixed - North
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
